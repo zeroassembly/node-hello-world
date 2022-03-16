@@ -2,7 +2,7 @@
   "name": "node-hello-world",
   "version": "1.0.0",
   "description": "Node.js hello world",
-  "author": "Ajay Shrestha",
+  "author": "Author",
   "main": "app.js",
   "license": "Apache-2.0",
   "repository": {
